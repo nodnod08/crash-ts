@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "..\\amzentrix"
+    },
+    {
+      "path": "..\\amzentrix_old"
+    },
+    {
+      "path": "..\\challengerusa-v2"
+    },
+    {
+      "path": "..\\redragon-v2"
+    },
+    {
+      "path": "..\\stock-site"
+    },
+    {
+      "path": "..\\stocksite-laravel"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\eagletec-v2"
+    },
+    {
+      "path": "..\\weather-app"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "crash"
+  }
+}

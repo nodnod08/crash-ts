@@ -12,5 +12,3 @@ class Apple implements Fruit {
     this.color = color;
   }
 }
-
-console.log("final na talaga ito");
